@@ -13,9 +13,6 @@ body {
     background: rgba(0,0,0,0.5);
     height: 50vh;
 }
-nav {
-    
-}
 
 ul {
     margin: 0;
@@ -38,7 +35,7 @@ ul li a {
 
 ul li a:hover {
     text-decoration: underline;
-    text-decoration-color: blue;
+    text-decoration-color: teal;
 }
 
 .box-header {
